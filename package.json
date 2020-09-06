@@ -15,5 +15,8 @@
     "babel-loader": "^8.1.0",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "draw-on-canvas": "^1.0.0"
   }
 }
