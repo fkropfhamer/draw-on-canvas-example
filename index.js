@@ -9,7 +9,7 @@ function main() {
     resetButton.onclick = () => d.reset();
 
     const downloadButton = document.getElementById('download');
-    downloadButton.onclick = () => d.donwloadPNG();
+    downloadButton.onclick = () => d.downloadPNG();
 }
 
 main();
